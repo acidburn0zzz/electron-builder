@@ -1042,9 +1042,9 @@ decamelize@^1.0.0, decamelize@^1.1.1, decamelize@^1.1.2:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/decamelize/-/decamelize-1.2.0.tgz#f6534d15148269b20352e7bee26f501f9a191290"
 
-decompress-zip@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/decompress-zip/-/decompress-zip-0.3.0.tgz#ae3bcb7e34c65879adfe77e19c30f86602b4bdb0"
+decompress-zip@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/decompress-zip/-/decompress-zip-0.3.2.tgz#f3fa2841666abce394604f4a9e8a7085c202d464"
   dependencies:
     binary "^0.3.0"
     graceful-fs "^4.1.3"
@@ -3045,16 +3045,7 @@ read-pkg@^2.0.0:
     normalize-package-data "^2.3.2"
     path-type "^2.0.0"
 
-readable-stream@1.1:
-  version "1.1.13"
-  resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-1.1.13.tgz#f6eef764f514c89e2b9e23146a75ba106756d23e"
-  dependencies:
-    core-util-is "~1.0.0"
-    inherits "~2.0.1"
-    isarray "0.0.1"
-    string_decoder "~0.10.x"
-
-readable-stream@^1.1.8, readable-stream@~1.1.9:
+readable-stream@1.1, readable-stream@^1.1.8, readable-stream@~1.1.9:
   version "1.1.14"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-1.1.14.tgz#7cf4c54ef648e3813084c636dd2079e166c081d9"
   dependencies:
