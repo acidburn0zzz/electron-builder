@@ -34,7 +34,7 @@
     "chalk": "^2.1.0",
     "chromium-pickle-js": "^0.2.0",
     "cuint": "^0.2.2",
-    "debug": "^3.0.1",
+    "debug": "^3.1.0",
     "dotenv": "^4.0.0",
     "dotenv-expand": "^4.0.1",
     "ejs": "^2.5.7",
