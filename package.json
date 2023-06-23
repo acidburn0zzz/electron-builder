@@ -59,7 +59,7 @@
     "plist": "^2.1.0",
     "read-config-file": "1.1.0",
     "sanitize-filename": "^1.6.1",
-    "semver": "^5.4.1",
+    "semver": "^7.5.2",
     "source-map-support": "^0.4.16",
     "stat-mode": "^0.2.2",
     "temp-file": "^2.0.3",
